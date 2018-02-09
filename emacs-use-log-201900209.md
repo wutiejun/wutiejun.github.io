@@ -15,12 +15,15 @@ Emacs使用日志（2018-02-09）
 因此，今天，把emacs看内核代码的工程再次弄好了，主要参考：
 
 1、基础工具的安装：
+
 https://techtooltip.wordpress.com/2012/01/06/how-to-integrate-emacs-cscope-to-browse-linux-kernel-source-code/
 
 2、环境搭建：
+
 http://martinezjavier.blogspot.my/2011/07/emacs-configuration-for-linux-kernel.html
 
 3、另外再推荐一个emacs美女用户的blog:
+
 http://sachachua.com/blog/category/emacs/
 
 Good Luck for my emacs!
